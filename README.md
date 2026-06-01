@@ -6,7 +6,7 @@
 - 🌱 I'm learning Full Stack Web Development
 - 💼 Built E-Commerce website using Python & Django
 - 📫 Reach me at: krmohit7070@gmail.com
-- 📍 Ranchi, Jharkhand, India
+- 📍 Pune, Maharashtra, India
 
 ## 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
